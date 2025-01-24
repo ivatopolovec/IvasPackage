@@ -1,0 +1,6 @@
+Package: IvasPackage
+Version: 0.1.0
+Title: My R Package
+Description: A package that does cool stuff.
+Imports:
+    ggplot2
